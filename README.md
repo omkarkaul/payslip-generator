@@ -7,6 +7,6 @@ Client posts data, server spits back a pdf - you know the drill.
 Not building this as its own web service though, more details to come.
 
 ### TODO:
-- [] build payslip model
-- [] build appropriate driver script
-- [] investigate aws lambda
+- [ ] build payslip model
+- [ ] build appropriate driver script
+- [ ] investigate aws lambda
